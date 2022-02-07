@@ -1,7 +1,8 @@
-# Paint criador de linhas segmentadas feito em C#
+# Clonando algumas funcionalidades do Paint no C#
 
 ## Resumo
-Este codigo permite a geração de linhas segmentadas num fundo branco, utilizando componentes graficos do proprio dot.net
+Este projeto tenta de forma simples e bem pequena recriar alguns funcionalidades do paint, apenas para exercicío de estudo. 
+O projeto utilizou componentes graficos do proprio dot.net
 
 ## Utilizando
 ![](demonstracao.gif)
