@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,45 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title_paint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_paint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title_paint1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title_paint2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title_paint_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selected_line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selected_rectangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selected_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selected_rectangle_round.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no_selected_line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no_selected_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no_selected_rectangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no_selected_rectangle_round.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
