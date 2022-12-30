@@ -1,8 +1,8 @@
-# Clonando algumas funcionalidades do Paint no C#
+# Cloning some features of Paint in C#
 
 ## Resumo
-Este projeto tenta de forma simples e bem pequena recriar alguns funcionalidades do paint, apenas para exercicío de estudo. 
-O projeto utilizou componentes graficos do proprio dot.net
+This project does in a simple and very small way to recreate some features of paint, just for study exercise.
+The project used graphic components from dot.net itself
 
-## Utilizando
+## Using
 ![](demonstracao.gif)
